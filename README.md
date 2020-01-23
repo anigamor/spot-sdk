@@ -6,6 +6,18 @@ is subject to the terms and conditions of the Boston Dynamics Software
 Development Kit License (20191101-BDSDK-SL).
 -->
 
+# Spot | Environmental Consulting
+
+Develop Boston Dynamics robot Spot into an Environmental Consulting Technician
+
+Utilzation of Spot Hardware to Accomplish the Following Tasks:
+  * Environmental Drilling Helper
+  * Environmental/Construction Inspections
+  * Compliance/Stormwater Inspections
+  * Geomorphology/Survey Studies
+  * Environmental Sampling Air/Soil/Water
+  
+
 # Boston Dynamics | Developer
 
 Integrate Boston Dynamics robots into your applications with the Boston Dynamics Developer Toolkit.
